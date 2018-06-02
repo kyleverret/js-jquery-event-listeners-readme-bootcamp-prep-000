@@ -26,8 +26,5 @@ function pressIt(){
     if (myKey.which == 71){
       alert ('success!');
     }
-    else {
-      alert (myKey.key);
-    }
   })
 }
