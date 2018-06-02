@@ -28,3 +28,7 @@ function pressIt(){
     }
   })
 }
+
+function submitIt(){
+  $()
+}
