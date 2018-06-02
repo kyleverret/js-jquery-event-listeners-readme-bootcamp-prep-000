@@ -23,7 +23,7 @@ function frameIt(){
 
 function pressIt(){
   $('#typing').on('keydown', function(myKey){
-    if (myKey.key === g){
+    if (myKey.which === g){
       alert ('success!');
     }
     else {
