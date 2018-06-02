@@ -26,5 +26,8 @@ function pressIt(){
     if (myKey.key === "G"){
       alert ('success!');
     }
+    else {
+      alert (myKey.key);
+    }
   })
 }
